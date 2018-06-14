@@ -7,9 +7,15 @@ This uses JUnit and contains all of the code needed to run with either IntelliJ 
 # Instructions
 * Clone this repository onto your local computer
 * Implement the instructions in the comments
+    * Add your name to the String variables
+    * Implement the Create, Read, Update & Delete actions
+    * Update the code to run it on Sauce Labs
+    * Fill out as many fields in the form as you have time for on the Create
 * Commit your changes
 * Use git format-patch HEAD to store your commits (use HEAD~ for 2 commits, HEAD~~ for 3, etc)
 * Email the patch file(s) to the person who pointed you to this project (or me: titusfortner@gmail.com).
+* Include in your email the things you would do to improve your code and the abstractions that
+would make it more maintainable.
 
 # License
 The code is available as open source under the terms of the MIT License.

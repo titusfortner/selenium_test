@@ -89,6 +89,8 @@ public class SeleniumTest {
 
     }
 
+    // Change this to run on Sauce Labs
+
     @Before
     public void setup() {
         System.setProperty("webdriver.chrome.driver", "lib/drivers/chromedriver");
